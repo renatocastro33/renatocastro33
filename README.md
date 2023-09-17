@@ -7,6 +7,7 @@ Advanced Analytics Leader
 I working in Data Science and Machine Learning, I have developed projects related to computer vision, and data science for customer analysis.
 
 * 🌍  I'm based in Panamá City, Panamá
+* 👨‍💻  Look my other social networks [here](https://linktr.ee/renatocastrocruz)
 * ✉️  You can contact me at [renatoaaroncastro@gmail.com](mailto:renatoaaroncastro@gmail.com)
 
 <a href="https://www.github.com/renatocastro33" target="_blank" rel="noreferrer"><img
