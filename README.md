@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Advanced Analytics Leader
 -------------------------
 
-I working in Data Science and Machine Learning, I have developed projects related to computer vision, natural language processing, and data science for customer analysis.
+I working in Data Science and Machine Learning, I have developed projects related to computer vision, and data science for customer analysis.
 
 * 🌍  I'm based in Panamá City, Panamá
 * ✉️  You can contact me at [renatoaaroncastro@gmail.com](mailto:renatoaaroncastro@gmail.com)
