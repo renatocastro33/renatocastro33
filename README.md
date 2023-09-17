@@ -11,7 +11,7 @@ I working in Data Science and Machine Learning, I have developed projects relate
 
 <a href="https://www.github.com/renatocastro33" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/renatocastro33?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://media.licdn.com/dms/image/C4E03AQHUswvtJT2e0Q/profile-displayphoto-shrink_400_400/0/1582067922259?e=1700697600&v=beta&t=6wsjzZD1lLkEEuCJ1qAVEFXafTzaqa86NxKfHKwSTOs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/renatocastro33?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Renato_itm800?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
