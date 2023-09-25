@@ -15,6 +15,21 @@ src="https://img.shields.io/github/followers/renatocastro33?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/Renato_itm800?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+
+### Github Stats
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatocastro33&label=Profile%20views&color=0e75b6&style=flat" alt="m1rn4" /> </p>
+
+<table width="100%">
+  <tr>
+  <td width="50%">
+      <a href="http://www.github.com/renatocastro33"><img src="https://github-readme-stats.vercel.app/api?username=renatocastro33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="renatocastro33's GitHub stats" /></a></td>
+  <td width="50%">
+      <a href="http://www.github.com/renatocastro33"><img src="https://github-readme-streak-stats.herokuapp.com/?user=renatocastro33&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
+  </tr>
+</table>
+
 ### Skills
 
 
@@ -34,20 +49,6 @@ src="https://img.shields.io/twitter/follow/Renato_itm800?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/renatocastro33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/renato-castro-cruz-317404137/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/Renato_itm800" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCCaAxdXor0JSRQ0bfcRLsYw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Github Stats
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatocastro33&label=Profile%20views&color=0e75b6&style=flat" alt="m1rn4" /> </p>
-
-<table width="100%">
-  <tr>
-  <td width="50%">
-      <a href="http://www.github.com/renatocastro33"><img src="https://github-readme-stats.vercel.app/api?username=renatocastro33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="renatocastro33's GitHub stats" /></a></td>
-  <td width="50%">
-      <a href="http://www.github.com/renatocastro33"><img src="https://github-readme-streak-stats.herokuapp.com/?user=renatocastro33&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
-  </tr>
-</table>
 
 ### Support Me
 
