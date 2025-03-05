@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Renato Castro Cruz
 ============================================================================================================================================
 
-Advanced Analytics Leader
+Advanced Analytics Manager
 -------------------------
 
 I working in Data Science and Machine Learning, I have developed projects related to computer vision, and data science for customer analysis.
