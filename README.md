@@ -6,9 +6,10 @@ Advanced Analytics Manager
 
 I working in Data Science and Machine Learning, I have developed projects related to computer vision, and data science for customer analysis.
 
-* 🌍  I'm based in Panamá City, Panamá
+* 🌍  I'm based in Panamá City, Panamá.
+* Check my website for an overview of my job. [here](https://renatocastro33.github.io/)
 * 👨‍💻  Look my other social networks [here](https://linktr.ee/renatocastrocruz)
-* ✉️  You can contact me at [renatoaaroncastro@gmail.com](mailto:renatoaaroncastro@gmail.com)
+* ✉️  You can contact me at [renatoaaroncastro@gmail.com](mailto:rcastroc@pucp.edu.pe)
 
 <a href="https://www.github.com/renatocastro33" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/renatocastro33?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://media.licdn.com/dms/image/C4E03AQHUswvtJT2e0Q/profile-displayphoto-shrink_400_400/0/1582067922259?e=1700697600&v=beta&t=6wsjzZD1lLkEEuCJ1qAVEFXafTzaqa86NxKfHKwSTOs" target="_blank" rel="noreferrer"><img
